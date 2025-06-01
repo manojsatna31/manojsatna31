@@ -2,7 +2,7 @@
 
 **Full-Stack Java Developer | Microservices Enthusiast | Cloud Practitioner**
 
-With over 15 years in the software development industry, I specialize in building scalable and high-impact solutions using Java, Spring Boot, and modern front-end frameworks like React and Angular. Currently, I'm contributing to innovative projects at **J.P. Morgan Chase** in Mumbai.
+With over 15 years in the software development industry, I specialize in building scalable and high-impact solutions using Java, Spring Boot, and modern front-end frameworks like React and Angular.
 
 ---
 
