@@ -38,8 +38,8 @@ Best practices in full-stack development, the intricacies of Java and the Spring
 ---
 
 ## 📫 How to reach me
-[![](./linkedin.svg)](https://www.linkedin.com/in/reachmm)
-[!(./linkedin.svg)](https://www.linkedin.com/in/reachmm)
+[![LinkedIn](./linkedin.svg)](https://www.linkedin.com/in/reachmm)
+
 - **LinkedIn**: [linkedin.com/in/reachmm](https://www.linkedin.com/in/reachmm)
 - **Medium**: [medium.com/@manoj.satna31](https://medium.com/@manoj.satna31)
 - **Dev.to**: [dev.to/manojsatna31](https://dev.to/manojsatna31)
