@@ -8,25 +8,19 @@ With over 15 years in the software development industry, I specialize in buildin
 
 ## 🔭 I’m currently working on
 
-- **Microservices Architecture**: Designing and implementing resilient microservices using Spring Boot and Resilience4j.
-- **Cloud Integration**: Deploying applications on AWS and PCF platforms to ensure scalability and reliability.
-- **API Development**: Crafting RESTful APIs with Swagger documentation for seamless integration.
+Crafting robust, scalable enterprise applications using advanced Java frameworks and microservices architectures. I’m also integrating AI-driven development workflows to automate code generation, optimize debugging, and enhance overall application performance.
 
 ---
 
 ## 🌱 I’m currently learning
 
-- **GraphQL**: Exploring GraphQL for efficient data fetching and flexible APIs.
-- **Kubernetes**: Delving into container orchestration to manage microservices at scale.
-- **DevOps Practices**: Enhancing CI/CD pipelines and infrastructure automation.
+Diving deep into cutting-edge technologies such as Kubernetes orchestration, serverless architectures, and modern front-end frameworks like React and Angular. In addition, I’m exploring how AI-driven tools (like GitHub Copilot, ChatGPT, and Microsoft Copilot ) are revolutionizing the software development lifecycle, enabling smarter, faster development processes.
 
 ---
 
 ## 👯 I’m looking to collaborate on
 
-- **Open Source Projects**: Especially those focused on Java, Spring Boot, or cloud-native applications.
-- **Tech Blogging**: Co-authoring articles or tutorials on modern software development practices.
-- **Community Building**: Participating in tech meetups and knowledge-sharing sessions.
+Innovative projects at the intersection of traditional development and artificial intelligence. Whether it’s secure RESTful APIs, distributed systems, or disruptive cloud platforms, I welcome opportunities to integrate AI-powered automation and predictive analytics into software engineering.
 
 ---
 
@@ -39,9 +33,7 @@ With over 15 years in the software development industry, I specialize in buildin
 
 ## 💬 Ask me about
 
-- **Java & Spring Boot**: From basics to advanced topics.
-- **Microservices Design**: Best practices and common pitfalls.
-- **Cloud Deployments**: Strategies for deploying applications on AWS and PCF.
+Best practices in full-stack development, the intricacies of Java and the Spring ecosystem, or the future of AI-enhanced software development. I’m particularly excited to discuss how AI-driven workflows can transform repetitive tasks into efficient, automated processes, freeing developers to focus on creative problem-solving.
 
 ---
 
