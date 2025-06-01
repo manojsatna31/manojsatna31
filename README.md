@@ -41,7 +41,7 @@ Best practices in full-stack development, the intricacies of Java and the Spring
 
 - **LinkedIn**: [linkedin.com/in/reachmm](https://www.linkedin.com/in/reachmm)
 - **Medium**: [medium.com/@manoj.satna31](https://medium.com/@manoj.satna31)
-
+- **Dev.to**: [dev.to/manojsatna31](https://dev.to/manojsatna31)
 ## ⚡ Fun fact
 
 I have a penchant for exploring new technologies and often spend my weekends experimenting with emerging tools and frameworks to stay ahead in the tech world.
