@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Manoj Mishra
+# Hi👋, I'm Manoj Mishra
 
 **Full-Stack Java Developer | Microservices Enthusiast | Cloud Practitioner**
 
