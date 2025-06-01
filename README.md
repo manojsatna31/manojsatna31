@@ -38,11 +38,17 @@ Best practices in full-stack development, the intricacies of Java and the Spring
 ---
 
 ## 📫 How to reach me
-[![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/reachmm)
-
-- **LinkedIn**: [linkedin.com/in/reachmm](https://www.linkedin.com/in/reachmm)
-- **Medium**: [medium.com/@manoj.satna31](https://medium.com/@manoj.satna31)
-- **Dev.to**: [dev.to/manojsatna31](https://dev.to/manojsatna31)
+<div style="text-align: left;">
+  <a href="https://www.linkedin.com/in/reachmm">
+    <img src="linked-in-alt.svg" alt="manojmishra" height="20" width="20" style="margin-right: 15px; vertical-align: middle;" />
+  </a>
+  <a href="https://medium.com/@manoj.satna31">
+    <img src="medium.png" alt="manojmishra" height="20" width="20" style="margin-right: 15px; vertical-align: middle;" />
+  </a>
+  <a href="https://dev.to/manojsatna31">
+    <img src="dev-to.svg" alt="manojmishra" height="20" width="20" style="vertical-align: middle;" />
+  </a>
+</div>
 ## ⚡ Fun fact
 
 I have a penchant for exploring new technologies and often spend my weekends experimenting with emerging tools and frameworks to stay ahead in the tech world.
