@@ -1,5 +1,5 @@
 # Hi👋, I'm Manoj Mishra
-
+![](https://komarev.com/ghpvc/?username=manojsatna31)
 **Full-Stack Java Developer | Microservices Enthusiast | Cloud Practitioner**
 
 With over 15 years in the software development industry, I specialize in building scalable and high-impact solutions using Java, Spring Boot, and modern front-end frameworks like React and Angular.
