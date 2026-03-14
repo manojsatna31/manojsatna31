@@ -1,57 +1,98 @@
 <h1 align="center">Hi 👋, I'm Manoj Mishra</h1>
 <h3 align="center">Full-Stack Java Developer | Microservices Enthusiast | Cloud Practitioner</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojsatna31" alt="manojsatna31" /> </p>
-
+<p align="center">
+Building scalable systems, writing technical articles, and sharing engineering knowledge.
+</p>
 With over 15 years in the software development industry, I specialize in building scalable and high-impact solutions using Java, Spring Boot, and modern front-end frameworks like React and Angular.
 
 ---
+<p align="center">
 
-## 🔭 I’m currently working on
+<a href="https://github.com/manojsatna31">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github">
+</a>
 
-Crafting robust, scalable enterprise applications using advanced Java frameworks and microservices architectures. I’m also integrating AI-driven development workflows to automate code generation, optimize debugging, and enhance overall application performance.
+<a href="https://dev.to/manojsatna31">
+<img src="https://img.shields.io/badge/DEV-Articles-black?logo=dev.to">
+</a>
 
----
-
-## 🌱 I’m currently learning
-
-Diving deep into cutting-edge technologies such as Kubernetes orchestration, serverless architectures, and modern front-end frameworks like React and Angular. In addition, I’m exploring how AI-driven tools (like GitHub Copilot, ChatGPT, and Microsoft Copilot ) are revolutionizing the software development lifecycle, enabling smarter, faster development processes.
-
----
-
-## 👯 I’m looking to collaborate on
-
-Innovative projects at the intersection of traditional development and artificial intelligence. Whether it’s secure RESTful APIs, distributed systems, or disruptive cloud platforms, I welcome opportunities to integrate AI-powered automation and predictive analytics into software engineering.
+<a href="https://medium.com/@manojsatna31">
+<img src="https://img.shields.io/badge/Medium-Blog-black?logo=medium">
+</a>
+</p>
 
 ---
 
-## 🤔 I’m looking for help with
+## 🚀 About Me
 
-- **Advanced Kubernetes Concepts**: Seeking mentorship or resources to deepen my understanding of Kubernetes.
-- **Performance Optimization**: Looking to learn best practices for optimizing Java applications in production environments.
+- 💻 Principal Software Engineer
+- 🔭 Currently working on scalable backend systems
+- 🧠 Passionate about AI, system design, and performance engineering
+- ✍️ Technical writer sharing engineering insights
+- 🌱 Always learning new technologies
 
----
-
-## 💬 Ask me about
-
-Best practices in full-stack development, the intricacies of Java and the Spring ecosystem, or the future of AI-enhanced software development. I’m particularly excited to discuss how AI-driven workflows can transform repetitive tasks into efficient, automated processes, freeing developers to focus on creative problem-solving.
-
----
-
-## 📫 How to reach me
-<div style="text-align: left;">
-  <a href="https://www.linkedin.com/in/reachmm">
-    <img src="linked-in-alt.svg" alt="manojmishra" height="25" width="25" style="margin-right: 30px; vertical-align: middle;" />
-  </a>
-  <a href="https://medium.com/@manoj.satna31">
-    <img src="medium.png" alt="manojmishra" height="25" width="25" style="margin-right: 30px; vertical-align: middle;" />
-  </a>
-  <a href="https://dev.to/manojsatna31">
-    <img src="devto.svg" alt="manojmishra" height="25" width="25" style="vertical-align: middle;" />
-  </a>
-</div>
+📍 India
 
 ---
 
+## 🛠 Tech Stack
+
+**Languages**
+
+Java | Python | JavaScript | SQL
+
+**Backend**
+
+Spring Boot | Hibernate | REST APIs | Microservices
+
+**Frontend**
+
+TailwindCSS | HTMX | Jinja2
+
+**Databases**
+
+PostgreSQL | MySQL | Redis
+
+**DevOps**
+
+Docker | GitHub Actions | Linux
+
+---
+
+## ✍️ Technical Articles
+
+### 📰 Latest Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+📚 Read more:
+- DEV: https://dev.to/manojsatna31
+- Medium: https://medium.com/@manoj.satna31
+
+---
+
+## 🔥 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manojsatna31)
+
+---
+
+## 👀 Profile Views
+
+![Visitors](https://komarev.com/ghpvc/?username=manojsatna31)
+
+---
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojsatna31&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojsatna31&layout=compact)
+
+---
 ## ⚡ Fun fact
 
 I have a penchant for exploring new technologies and often spend my weekends experimenting with emerging tools and frameworks to stay ahead in the tech world.
