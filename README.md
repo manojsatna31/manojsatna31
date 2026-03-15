@@ -98,7 +98,7 @@ I regularly share technical insights and engineering learnings on the developer 
 I regularly write articles on backend engineering and system optimization.
 
 ### Articles Published
-- [Demystifying Agentic AI: Autonomous Agents Reshaping the Future of Automation](https://dev.to/manojsatna31/demystifying-agentic-ai-autonomous-agents-reshaping-the-future-of-automation-4h8e)
+- [Demystifying Agentic AI: Autonomous Agents Reshaping the Future of Automation](https://dev.to/manojsatna31/demystifying-agentic-ai-autonomous-agents-reshaping-the-future-of-automation-29ff)
 - [Master HikariCP in Spring Boot 3.x: Complete Guide to High-Performance Database Connection Pooling](https://dev.to/manojsatna31/master-hikaricp-in-spring-boot-3x-complete-guide-to-high-performance-database-connection-pooling-3i5n)
 - [Master OpenAPI Generator: Custom Templates for Spring Boot 3 and Jakarta EE](https://dev.to/manojsatna31/revolutionize-your-api-development-unleash-the-true-power-of-openapi-generator-3ob8)
 - [Stop Writing Boilerplate! Simplify Java Bean Mapping with MapStruct](https://dev.to/manojsatna31/stop-writing-boilerplate-dto-mappings-in-java-use-mapstruct-instead-4356)
