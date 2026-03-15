@@ -1,22 +1,34 @@
-<h1 align="center">Hi 👋, I'm Manoj Mishra</h1>
-<h3 align="center">Full-Stack Java Developer | Microservices Enthusiast | Cloud Practitioner</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manojsatna31" alt="manojsatna31" /> </p>
-<p align="center">
-Building scalable systems, writing technical articles, and sharing engineering knowledge.
+<!-- ====================================================== -->
+![Manoj Mishra](GIt-Profile-With-Image.jpg)
+<!-- ====================================================== -->
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=manojsatna31&style=for-the-badge&color=blue">
+
 </p>
-With over 15 years in the software development industry, I specialize in building scalable and high-impact solutions using Java, Spring Boot, and modern front-end frameworks like React and Angular.
 
 ---
-<p align="center">
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,spring,nodejs,aws,docker,git,linux,mongodb,mysql" />
+</p>
+
+---
+
+<h1 align="center">Hi 👋 I'm Manoj Mishra</h1>
+<h3 align="center">
+Principal Software Engineer | Cloud-Native | AI
+</h3>
+<p align="center">
+Cloud-Native Architecture & Digital Transformation
+</p>
+
+<p align="center">
 <a href="https://github.com/manojsatna31">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github">
 </a>
-
 <a href="https://dev.to/manojsatna31">
 <img src="https://img.shields.io/badge/DEV-Articles-black?logo=dev.to">
 </a>
-
 <a href="https://medium.com/@manojsatna31">
 <img src="https://img.shields.io/badge/Medium-Blog-black?logo=medium">
 </a>
@@ -26,46 +38,70 @@ With over 15 years in the software development industry, I specialize in buildin
 
 ## 🚀 About Me
 
-- 💻 Principal Software Engineer
-- 🔭 Currently working on scalable backend systems
-- 🧠 Passionate about AI, system design, and performance engineering
-- ✍️ Technical writer sharing engineering insights
-- 🌱 Always learning new technologies
+I am a **Principal Software Engineer** with a strong focus on building **scalable backend systems, cloud-native platforms, and high-performance enterprise applications**.
 
-📍 India
+Over the years, I have worked extensively with the **Java ecosystem, distributed systems, and cloud platforms**, designing systems that handle complex business workloads while maintaining reliability, performance, and maintainability.
+
+I enjoy working on **architecture problems**, optimizing system performance, and building services that can scale efficiently in modern cloud environments.
+
+My work typically involves **microservices architecture, API-driven systems, database design, and cloud-native deployments**, where the goal is always to build systems that are both **robust and maintainable in the long run**.
+
+---
+
+### 💼 Core Expertise
+
+- Enterprise backend architecture and **microservices design**
+- Building scalable services using **Java, Spring Framework, and Spring Boot**
+- **Cloud-native development** on AWS and PCF
+- Designing **high-performance database and distributed data systems**
+- API architecture and **system integration for large-scale applications**
+- Performance tuning and reliability engineering
 
 ---
 
-## 🛠 Tech Stack
+### ✍️ Technical Blogging
 
-**Languages**
+I also **love doing technical blogging**. Whenever I get time, I try to **articulate what I learn from my experience and from my journey of exploring technology**.
 
-Java | Python | JavaScript | SQL
+Writing helps me **reflect on real-world engineering problems, share practical solutions, and document useful learnings for the developer community**.
 
-**Backend**
-
-Spring Boot | Hibernate | REST APIs | Microservices
-
-**Frontend**
-
-TailwindCSS | HTMX | Jinja2
-
-**Databases**
-
-PostgreSQL | MySQL | Redis
-
-**DevOps**
-
-Docker | GitHub Actions | Linux
+I regularly share technical insights and engineering learnings on the developer platform **DEV Community**.
 
 ---
+
+### 🌱 What I Enjoy Exploring
+
+- Cloud-native architectures
+- Distributed systems design
+- Backend performance optimization
+- Developer productivity tools
+- Emerging technologies in **AI and modern software engineering**
+---
+
+## 🛠 Core Technologies
+
+| **Category**                 | **Technologies**                                                                 |
+|------------------------------|----------------------------------------------------------------------------------|
+| **Cloud Platforms**          | AWS • PCF (Pivotal Cloud Foundry)                                                |
+| **Programming & Scripting**  | Java • Python • Groovy                                                           |
+| **Backend & Java Ecosystem** | Java 17/21 • Spring Framework • Spring Boot • Spring Cloud • Hibernate • Node.js |
+| **Database Systems**         | Oracle • MS SQL Server • Sybase • Cassandra • MongoDB • ArangoDB                 |
+| **DevOps & Tools**           | Git • Bitbucket • Docker • IntelliJ IDEA • Eclipse • SQL Developer               |
+| **Build & Frontend Tools**   | Webpack 5 • Module Federation                                                    |
+| **Scripting & Automation**   | Unix Shell • Perl • PowerShell                                                   |
+
+---
+
+
 
 ## ✍️ Technical Articles
+I regularly write articles on backend engineering and system optimization.
 
-### 📰 Latest Articles
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Articles Published
+- [Demystifying Agentic AI: Autonomous Agents Reshaping the Future of Automation](https://dev.to/manojsatna31/demystifying-agentic-ai-autonomous-agents-reshaping-the-future-of-automation-4h8e)
+- [Master HikariCP in Spring Boot 3.x: Complete Guide to High-Performance Database Connection Pooling](https://dev.to/manojsatna31/master-hikaricp-in-spring-boot-3x-complete-guide-to-high-performance-database-connection-pooling-3i5n)
+- [Master OpenAPI Generator: Custom Templates for Spring Boot 3 and Jakarta EE](https://dev.to/manojsatna31/revolutionize-your-api-development-unleash-the-true-power-of-openapi-generator-3ob8)
+- [Stop Writing Boilerplate! Simplify Java Bean Mapping with MapStruct](https://dev.to/manojsatna31/stop-writing-boilerplate-dto-mappings-in-java-use-mapstruct-instead-4356)
 
 📚 Read more:
 - DEV: https://dev.to/manojsatna31
@@ -73,26 +109,59 @@ Docker | GitHub Actions | Linux
 
 ---
 
-## 🔥 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manojsatna31)
+## 📫 How to reach me
+<div style="text-align: left;">
+  <a href="https://www.linkedin.com/in/reachmm">
+    <img src="linked-in-alt.svg" alt="manojmishra" height="25" width="25" style="margin-right: 30px; vertical-align: middle;" />
+  </a>
+  <a href="https://medium.com/@manoj.satna31">
+    <img src="medium.png" alt="manojmishra" height="25" width="25" style="margin-right: 30px; vertical-align: middle;" />
+  </a>
+  <a href="https://dev.to/manojsatna31">
+    <img src="devto.svg" alt="manojmishra" height="25" width="25" style="vertical-align: middle;" />
+  </a>
+</div>
 
 ---
 
-## 👀 Profile Views
+<p align="left">
 
-![Visitors](https://komarev.com/ghpvc/?username=manojsatna31)
+### ⭐ If you find my work useful, consider following my GitHub profile.
+</p>
 
 ---
 
+# 🏆 GitHub Achievements
+<p align="center">
 
+![trophy](https://github-profile-trophy.vercel.app/?username=manojsatna31&theme=algolia)
+</p>
+---
 ## 📊 GitHub Stats
+<p align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojsatna31&show_icons=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojsatna31&layout=compact)
+</p>
 
 ---
+
+# 🔥 Coding Streak
+<p align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=manojsatna31&theme=dark)
+</p>
+---
+
+## 🔥 Contribution Activity
+<p align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manojsatna31)
+</p>
+---
+
+
+
 ## ⚡ Fun fact
 
 I have a penchant for exploring new technologies and often spend my weekends experimenting with emerging tools and frameworks to stay ahead in the tech world.
