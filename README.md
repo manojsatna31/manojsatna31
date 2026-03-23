@@ -136,6 +136,7 @@ I regularly write articles on backend engineering and system optimization.
 <p align="center">
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=manojsatna31&theme=algolia)
+
 </p>
 ---
 ## 📊 GitHub Stats
@@ -143,6 +144,7 @@ I regularly write articles on backend engineering and system optimization.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojsatna31&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojsatna31&layout=compact)
+
 </p>
 
 ---
@@ -151,6 +153,7 @@ I regularly write articles on backend engineering and system optimization.
 <p align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=manojsatna31&theme=dark)
+
 </p>
 ---
 
@@ -158,6 +161,7 @@ I regularly write articles on backend engineering and system optimization.
 <p align="center">
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manojsatna31)
+
 </p>
 ---
 
