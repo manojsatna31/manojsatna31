@@ -134,11 +134,13 @@ I regularly write articles on backend engineering and system optimization.
 ---
 
 # 🏆 GitHub Achievements
+
 <p align="center">
 
 ![trophy]([https://github-profile-trophy.vercel.app/?username=manojsatna31&theme=algolia](https://github-profile-trophy.screw-hand.vercel.app/?username=manojsatna31&theme=darkhub))
 
 </p>
+
 ---
 ## 📊 GitHub Stats
 <p align="center">
