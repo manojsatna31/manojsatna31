@@ -136,7 +136,7 @@ I regularly write articles on backend engineering and system optimization.
 # 🏆 GitHub Achievements
 <p align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=manojsatna31&theme=algolia)
+![trophy]([https://github-profile-trophy.vercel.app/?username=manojsatna31&theme=algolia](https://github-profile-trophy.screw-hand.vercel.app/?username=manojsatna31&theme=darkhub))
 
 </p>
 ---
@@ -156,6 +156,7 @@ I regularly write articles on backend engineering and system optimization.
 ![GitHub Streak](https://streak-stats.demolab.com?user=manojsatna31&theme=dark)
 
 </p>
+
 ---
 
 ## 🔥 Contribution Activity
@@ -164,6 +165,7 @@ I regularly write articles on backend engineering and system optimization.
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manojsatna31)
 
 </p>
+
 ---
 
 
