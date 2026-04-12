@@ -98,6 +98,7 @@ I regularly share technical insights and engineering learnings on the developer 
 I regularly write articles on backend engineering and system optimization.
 
 ### Articles Published
+- [90% of Software Failures Are Caused by Bad Architecture. Is Yours Next?](https://dev.to/manojsatna31/90-of-software-failures-are-caused-by-bad-architecture-is-yours-next-1bo3)
 - [The AI Productivity Paradox: The Story Point Trap](https://dev.to/manojsatna31/the-ai-productivity-paradox-the-story-point-trap-36bj)
 - [AI‑Assisted Development: How to Get the Code You Want Without the Hidden Technical Debt](https://dev.to/manojsatna31/ai-assisted-development-how-to-get-the-code-you-want-without-the-hidden-technical-debt-5hdf)
 - [Demystifying Agentic AI: Autonomous Agents Reshaping the Future of Automation](https://dev.to/manojsatna31/demystifying-agentic-ai-autonomous-agents-reshaping-the-future-of-automation-29ff)
