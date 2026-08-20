@@ -137,8 +137,8 @@ I regularly write articles on backend engineering and system optimization.
 
 # 🔥 Coding Streak
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=manojsatna31&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-![GitHub Streak](https://streak-stats.demolab.com?user=manojsatna31&theme=dark)
+  
+![GitHub Streak]([https://streak-stats.demolab.com?user=manojsatna31&theme=tokyonight&hide_border=true&border_radius=10](https://streak-stats.demolab.com/?user=manojsatna31&theme=dark&hide_border=true&border_radius=10))
 
 </p>
 
